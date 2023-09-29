@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 1870fed2-ef12-92c6-8bbe-9fdcf7c71870
+  name: Video Course Manual
+  pageRef: /pages/video-course-manual
+  weight: 10
+- identifier: c87237fe-22ae-0a95-48ee-30c2382847cc
+  name: Textbook
+  pageRef: /pages/textbook
+  weight: 20
+- identifier: 68468aba-4d94-0ec0-b77f-0033eecd6922
+  name: Course Videos
+  pageRef: /video_galleries/course-videos
+  weight: 30
